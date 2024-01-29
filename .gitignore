@@ -8,6 +8,7 @@ config.py
 
 #adding config.py file (different name than the config.py)
 api_keys.py
+geoapify_key.py
 
 # C extensions
 *.so
